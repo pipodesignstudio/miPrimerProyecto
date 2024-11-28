@@ -1,0 +1,8 @@
+# Conocimientos Previos
+## Front end
+- Desarrollo básico estilo Wordpress, Prestashop y básico HTML, CSS y JS - 2019
+- Cursos de UDEMY en PHP para mejorar el nivel de personalización - 2019-2020
+- Formación en Flutter para programación de apps - 2020
+- Aprendizaje de Angular. Nivel avanzado con +10 aplicativos lanzados - 2021
+- Aprendizaje de React. Nociones básicas para complementar - 2023
+- Aprendizaje Astro. Me llamaba la atención: 2 aplicativos lanzados con react para islas reactivas - 2024
